@@ -18,8 +18,7 @@ bytes = random._urandom(1490)
 #############
 
 os.system("clear")
-os.system("figlet hershy ddos")
-os.system("edited by kak.saro")
+os.system("figlet hershy ddos edited by kak.saro")
 print
 print "Author   : HA-MRX"
 print "You Tube : https://www.youtube.com/c/HA-MRX"
