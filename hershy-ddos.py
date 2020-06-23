@@ -23,7 +23,6 @@ print
 print
 print
 print     ("hershy ddos")
-print "instagram : kak.saro
 print
 ip = raw_input("IP Target : ")
 port = input("Port       : ")
