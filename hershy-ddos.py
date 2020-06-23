@@ -23,7 +23,6 @@ print
 print
 print
 print     ("hershy ddos")
-print "github   : https://github.com/KAKsaro
 print "instagram : kak.saro
 print
 ip = raw_input("IP Target : ")
