@@ -20,6 +20,7 @@ bytes = random._urandom(1490)
 os.system("clear")
 os.system("figlet KAKsaro")
 print
+print     ("hershy ddos
 print "github   : https://github.com/KAKsaro
 print "instagram : kak.saro
 print
