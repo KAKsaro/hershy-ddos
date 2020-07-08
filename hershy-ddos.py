@@ -20,8 +20,8 @@ bytes = random._urandom(1490)
 os.system("clear")
 os.system("figlet KAK saro")
 print 
-print 'instagram : kak.saro'
-print 'telegram  : kak_saro'
+print ("instagram : kak.saro")
+print ("telegram  : kak_saro")
 print
 print
 ip = raw_input("IP Target : ")
